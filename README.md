@@ -37,3 +37,4 @@ Este texto está en **_negrita y cursiva_**.
 ```
 [Esto es un enlance](http://joan23.fje.edu "Enlance a la web del cole")
 
+![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A3_Apuntes/blob/main/Test.png "Titulo opcional de la imagen")
