@@ -25,3 +25,15 @@ Este texto está en **_negrita y cursiva_**.
     * Cuarto submenú
 + Quinta opción de lista desordenada
 + Sexta opción de lista desordenada
+
+```
+<html> 
+    <head>
+    </head>
+    <body>
+        <p>Esto es un párrafo</p>
+    <body>
+<html>
+```
+[Esto es un enlance](http://joan23.fje.edu "Enlance a la web del cole")
+
