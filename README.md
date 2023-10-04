@@ -38,3 +38,10 @@ Este texto está en **_negrita y cursiva_**.
 [Esto es un enlance](http://joan23.fje.edu "Enlance a la web del cole")
 
 ![Esto es una foto de prueba](https://github.com/QuicoSanchez/ASIX1-M4-UF1-A3_Apuntes/blob/main/Test.png "Titulo opcional de la imagen")
+
+|Primera Col.|Segunda Col.|3 Col|
+|---------------|:------------:|---------:|
+|Col 2 es|centrada|35€|
+|Col 3 es| derecha|134€|
+|Estilo cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
