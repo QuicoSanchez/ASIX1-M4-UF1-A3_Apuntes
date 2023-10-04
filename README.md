@@ -45,3 +45,7 @@ Este texto está en **_negrita y cursiva_**.
 |Col 3 es| derecha|134€|
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[ ] Opcion A
+-[X] Opcion B
+-[ ] Opcion C
