@@ -49,3 +49,22 @@ Este texto está en **_negrita y cursiva_**.
 -[ ] Opcion A
 -[X] Opcion B
 -[ ] Opcion C
+
+## Segundo Capitulo: HTML
+
+HTML es el código que se utiliza para estructurar y desplegar una página web.
+
+Para crear una página con HTML se debe tener esta estructura: un head y el body donde va el contenido de página.
+
+Para que Visual Studio Code nos de una estructura de html, escribiremos **hmtl:5** y no dara la siguiente estructura:
+```
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/02d480a03b.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="book-solid.ico">
+    <title>Document</title>
+    </head>
+```
