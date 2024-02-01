@@ -1,6 +1,23 @@
 # ASIX1-M4-UF1-A3_Apuntes
 
-Apuntes
+Apuntes de GITHUB, MARKDOWN, HTML, CSS, y DISEÑO RESPONSIVE - Quico Sanchez
+
+## GitHub 
+GitHub es un programa gratuito y online que sirve para hacer repositorio que podamos compartir con diferentes personas. Ademas los proyectos se quedan guardados en la nube por lo tanto que no se perdera nada.
+
+**Creacion de un Repositorio**
+Entraremos a GitHub para crear un repositorio. Primero lo que haremos es poner un nombre, leugo si queremos una pequeña descripción de la informacion del repositorio.
+El acceso lo ponemos público para que puedan entrar a ver mi repositorio y lo más importante es añadimos el README file para poder dar margen y subir información a nuestro repositorio.
+
+Para tener este repositorio en nuestro disco local C, copiaremos el link del repositorio y abriremos un cmd desde el disco local. 
+Primero lo que haremos sera clonar el repositorio y tendremos que poner en el cmd (git clone "Link del repositorio)
+Una vez creado tendremos una carpeta en el disco local y podremos editarlo con el visual. 
+
+Cuando queramos guardar la informacion editada en local al GitHub, lo que haremos sera escribir una serie de comandos:
+1. Primero pondremos (git init)
+2. Luego (git add .) (el "." significa coger todos los archivos de la carpeta para subirlos a GitHub)
+3. Despues (git commit -m "Frase como por ejemplo: Actualizacion")
+4. Por ultimo (git push origin main) para que se suba todo. 
 
 ## Primer Capitulo: MARKDOWN
 
